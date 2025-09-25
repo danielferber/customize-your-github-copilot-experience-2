@@ -2,19 +2,19 @@
 
 # 📘 Assignment: Jogo da Forca em Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Construa o clássico jogo da forca em Python, praticando manipulação de strings, laços, condicionais e entrada do usuário.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Jogo da Forca Interativo
 
-#### Description
+#### Descrição
 Implemente um jogo da forca onde o jogador deve adivinhar uma palavra secreta, letra por letra, antes de esgotar o número de tentativas.
 
-#### Requirements
-Completed program should:
+#### Requisitos
+O programa final deve:
 
 - Selecionar aleatoriamente uma palavra de uma lista pré-definida
 - Aceitar palpites de letras do usuário e exibir o progresso atual (ex: _ _ _ _)
@@ -22,7 +22,7 @@ Completed program should:
 - Encerrar o jogo quando a palavra for adivinhada ou as tentativas acabarem
 - Exibir mensagens de vitória ou derrota ao final
 
-Exemplo de execução:
+##### Exemplo de execução:
 ```plaintext
 Palavra: _ _ _ _
 Tentativas restantes: 6
